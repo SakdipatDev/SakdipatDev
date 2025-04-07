@@ -68,6 +68,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/SakdipatDev/SakdipatDev/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/SakdipatDev/SakdipatDev/blob/output/snake.svg" alt="Snake animation" height="150" />
 
 ###
