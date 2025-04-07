@@ -67,8 +67,17 @@
 ###
 
 <br clear="both">
+
 <div align="center">
   <img src="https://github.com/SakdipatDev/SakdipatDev/blob/output/snake.svg" alt="Snake animation" height="100%" />
+</div>
+<div align="center">
+  <img src="https://github.com/SakdipatDev/SakdipatDev/blob/output2/pacman-contribution-graph.svg" alt="Snake animation" height="100%" />
+</div>
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SakdipatDev.SakdipatDev&left_color=mediumblue&right_color=steelblue"  />
 </div>
 
 ###
